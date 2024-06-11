@@ -10,7 +10,8 @@ https://github.com/TusharBasu/Deployment-of-Django-TodoApp-on-AWS/assets/1262406
 
 ***Clip 3***
 
-https://github.com/TusharBasu/Deployment-of-Django-TodoApp-on-AWS/assets/126240600/198f0daf-a9b1-45e3-8114-5b2a18b4c9cc
+https://github.com/TusharBasu/Deployment-of-Django-TodoApp-on-AWS/assets/126240600/571699f8-a18f-46fd-a1da-18f6a4fb79ce
+
 
 Used this simple Todo list app build with django to deploye on aws.
 

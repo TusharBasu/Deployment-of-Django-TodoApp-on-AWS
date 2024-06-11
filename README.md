@@ -1,6 +1,5 @@
 # Deployment-of-Django-TodoApp-on-AWS
 
-
 Used this simple Todo list app build with django to deploye on aws.
 
 <img width="1440" alt="todoApp" src="https://github.com/TusharBasu/Deployment-of-Django-TodoApp-on-AWS/assets/126240600/a9580b1d-483b-474a-a11f-153495299887">

@@ -2,9 +2,11 @@
 ***Clip 1***
 
 https://github.com/TusharBasu/Deployment-of-Django-TodoApp-on-AWS/assets/126240600/9068c889-d716-47d7-a383-b4d169578cf9
+
 ***Clip 2***
 
 https://github.com/TusharBasu/Deployment-of-Django-TodoApp-on-AWS/assets/126240600/d489577d-62ab-4dba-a7ff-83d772429d14
+
 
 ***Clip 3***
 
